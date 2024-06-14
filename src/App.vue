@@ -7,6 +7,7 @@ import TheWelcome from './components/TheWelcome.vue'
   <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
     <span>teste</span>
+    <span>testando jenkins</span>
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
     </div>
